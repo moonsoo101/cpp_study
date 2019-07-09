@@ -117,7 +117,7 @@
     {
       MyString myString;
       /*
-      not Using casting operator overloading
+      when not Using casting operator overloading
       wchar_t *str = myString.getString();
       wcout << str;
       */
