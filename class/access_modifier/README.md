@@ -84,7 +84,7 @@ using namespace std;
   }
 ```
 
-- For information Hiding, It can be accessed by limited method can prevent your program from generating a logical error.
+- For information Hiding, It can be accessed by limited method can prevent your program from generating a logical error.  
 The class member radius must be positive number. However, because it is declared as public, It can throw a logical error as below code.
 
 ```{.cpp}
