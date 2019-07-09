@@ -234,5 +234,5 @@ It make sub class have a super class' derived properties and characteristics
     }
     ```
 
-    It results in calling Parent class' constructor twice. So derived object has two parent class' members.
+   - It results in calling Parent class' constructor twice. So derived object has two parent class' members.
     Above problem is resolved by virtual inheritance in Middle1 class and Middle2 class. but it makes relationships between Classes complex.
